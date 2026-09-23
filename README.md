@@ -6,9 +6,9 @@ Wayleaf Companion은 Wayleaf의 공부 탐험 기능을 Android 공부 앱과 �
 
 최신 정식 버전: **v0.3.8**
 
-**[Wayleaf Companion v0.3.8 APK 다운로드](https://raw.githubusercontent.com/devegene/wayleaf-companion-releases/main/Wayleaf-Companion-v0.3.8.apk)**
+**[Wayleaf Companion 최신 APK 다운로드](https://raw.githubusercontent.com/devegene/wayleaf-companion-releases/main/Wayleaf-Companion-latest.apk)**
 
-파일명: `Wayleaf-Companion-v0.3.8.apk`  
+버전 파일: [Wayleaf-Companion-v0.3.8.apk](https://raw.githubusercontent.com/devegene/wayleaf-companion-releases/main/Wayleaf-Companion-v0.3.8.apk)  
 SHA-256: `f2752247c8747e993a8344e10fb4f52ab8360185008c162fe586930babf0ebbd`
 
 처음 설치할 때 Android에서 브라우저 또는 파일 앱의 **출처를 알 수 없는 앱 설치** 허용이 필요할 수 있습니다.
